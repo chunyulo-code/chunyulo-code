@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hey! Nice to see you.</h1>
+<h1><img src="https://github.com/chunyulo-code/chunyulo-code/assets/73751851/86195066-c03f-4472-8610-64971a3a9546" width="30"/>  Hey! Nice to see you. 👋🏻</h1>
 
 <p>Welcome to my page! </br> I'm Chun, Front-End developer from <img src="https://github.com/chunyulo-code/chunyulo-code/assets/73751851/03c284ca-ecc8-4b4f-bfc2-bcf754b6c74a" width="13"/> <b>Taipei, Taiwan</b></p>
 <h3>💻 Things I code with </h3>
